@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently working on AfterShip, Shenzhen, and love programming so much. 
+
+✍️ Here is my personal blog: [https://cuberl.com](https://cuberl.com)
+
 <!--
 **CuberL/CuberL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
